@@ -1,9 +1,3 @@
-# 🚗 Car Price Prediction with Machine Learning
-
-> **Data Science Internship — Task 3**  
-> A regression-based machine learning project to predict used car selling prices using features like brand, present price, mileage, fuel type, and age.
-
----
 
 ## 📌 Overview
 
